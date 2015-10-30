@@ -1,0 +1,31 @@
+nav{
+	float: left;
+	width: 15%;
+	height: 500px;
+	border: 1px solid #000000;
+	padding-left: 2%
+}
+
+.main{
+	margin-left: 22%;
+	margin-right: 10%; 
+	height: 500px;
+	border: 1px solid #000000;
+}
+
+.box{
+	border: 1px solid #000000;
+}
+
+.placeholder{
+	border: 1px solid #000000;
+}
+/*.nav-container{
+	border: 3px solid #000000;
+	max-width: 200px;
+}*/
+
+/*#main{
+	max-width:60%;
+	margin: 0 auto;
+	position: relative;*/
