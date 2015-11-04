@@ -1,0 +1,34 @@
+body{
+	font-family: "Chalkboard SE", sans-serif; 
+}
+ul{
+	display: inline-block;
+	float:left;
+	border-width: .3em;
+	border-style: solid;
+	border-color: black;
+	padding-left: .4em;
+	padding-right: 3em;
+	top:0;
+	margin-top: 0;
+	margin-left: 7em;
+	margin-bottom: 5%;
+
+}
+li{
+	list-style-type: none; 
+	line-height: 1.7em;
+}
+.pets{
+	margin-left: 8em;
+}
+.button{
+	clear:left;
+	border-width: .2em;
+	border-style: solid;
+	border-color: black;
+	width:12em;
+	text-align: center;
+	box-shadow: 3px 3px 0px 0px black;
+	margin-left: 18%;
+	}
