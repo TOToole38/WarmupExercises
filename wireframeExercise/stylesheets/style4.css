@@ -1,0 +1,30 @@
+
+
+label{
+	display:inline-block;
+	margin-bottom: 1.7em;
+	margin-right: 1em;
+}
+input[type="text"]{
+	border-width: .3em;
+	box-shadow: .09em .09em 0em 0em black;
+	border-color: black;
+	width:20em;
+}
+button{
+	box-shadow: .2em .2em 0em 0em black;
+	border-color: black;
+	border-width: .1em; 
+	background-color: white;
+}
+form{
+	margin-left: 7%;
+	margin-top: 3%;
+}
+input[type="checkbox"]{
+	margin-right: 1em;
+}
+
+body{
+	font-family: "Chalkboard SE", sans-serif; 
+	}
