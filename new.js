@@ -8,3 +8,9 @@ document.getElementsByClassName('success')[0].style['display']= "none";
 document.getElementsByClassName('error-high')[0].style['display']= "none"; 
 document.getElementsByClassName('error-low')[0].style['display']= "none";
 
+var rando = function(min, max){
+	return Math.random() * (max-min) + min; 
+}cd
+var roundDown = Math.floor(rando(1, 100));
+var randnum = rando(0, 100); 
+

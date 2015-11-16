@@ -61,7 +61,7 @@
 // var y = evenOdd(2, even, odd); 
 
 
-
+//CALLBACK FUNCTION
 // function exFunction(boo, fun1, fun2){
 // if (boo == true){
 // 	fun1("true");
@@ -76,14 +76,13 @@
 // function falsey(error){
 // 	console.log("error: " + error); 
 // }
-
 // var x = exFunction(true, truthy, falsey);
 
-
-function myFunction(x){
-	return function(y){
-		console.log(x+y); 
-	}
-}
-var z = myFunction(10); 
-var m = z(5); 
+//CLOSURE
+// function myFunction(x){
+// 	return function(y){
+// 		console.log(x+y); 
+// 	}
+// }
+// var z = myFunction(10); 
+// var m = z(5); 
